@@ -1,0 +1,3 @@
+define(function () {
+return ["topics/aeronautics.html@@@Aeronautics@@@Research done in the aeronautics field...","topics/deep_space_exploration.html@@@Deep Space Exploration@@@Simulated flyover of Pluto\u2019s Norgay Montes...","topics/introduction.html@@@Introduction@@@Space-related concepts and introductory topics...","topics/movies.html@@@Movies@@@To insert a new videos into your topics, use the Insert Media button from the toolbar. If your movie is already published on YouTube and you want to refer it in your documentation, make sure you...","topics/space_sounds.html@@@Sounds@@@Starting with oXygen XML Editor 18.1 you can link to media files, including sounds, in your topic files. Here is a DITA &lt;object&gt; referring an mp3 file from..."];
+});
